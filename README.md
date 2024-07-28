@@ -1,6 +1,6 @@
 # CODSOFT
 
-Overview
+#Overview
 This repository contains the code and resources for three projects completed as part of the CodSoft Internship:
 
 Movie Rating System
