@@ -1,21 +1,21 @@
-# CODSOFT
+# CODSOFT INTERSHIP PROJECTS README
 
-#Overview
+# Overview
 This repository contains the code and resources for three projects completed as part of the CodSoft Internship:
 
-Movie Rating System
+ Movie Rating System
 Sales Prediction
 Titanic Survival Prediction
 Each project is implemented and executed in Google Colab for ease of use and accessibility.
 
 Project Descriptions
-1. Movie Rating System
+# 1.  Movie Rating System
 This project involves building a system that predicts movie ratings based on various features such as user demographics, movie genre, and past ratings.
 
-2. Sales Prediction
+# 2. Sales Prediction
 In this project, we aim to predict future sales based on historical sales data, considering various factors like seasonal trends, promotional campaigns, and economic indicators.
 
-3. Titanic Survival Prediction
+# 3. Titanic Survival Prediction
 This classic machine learning project predicts the survival of passengers on the Titanic based on features such as age, gender, ticket class, and fare.
 
 Running the Projects
@@ -28,9 +28,10 @@ Steps to Run the Projects
 1. Clone the Repository
 First, clone this repository to your local machine or directly access the files in Google Colab.
 
-bash
-Copy code
+bash Copy code
+
 git clone https://github.com/yourusername/codsoft-internship-projects.git
+
 2. Open Google Colab
 Go to Google Colab and sign in with your Google account.
 
